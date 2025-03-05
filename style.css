@@ -1,0 +1,31 @@
+*{text-align:center}
+
+h1{background-color:#F6D6D6}
+h2{background-color:#7BD3EA}
+html{background-color:#FFF5E4}
+a{color: #4583ff}
+h3{font-style: oblique; font-size: 20px; font-weight: 500;}
+#bday{height: 300px;}
+
+.color-title{font-weight: normal;}
+
+#red{color: red;}
+#blue{color: blue;}
+#orange{color: orange;}
+#green{color: green;}
+#yellow{color: yellow;}
+
+
+#color{height: 200px; width: 200px}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img {
+    border: 5px solid #000000;
+  }
